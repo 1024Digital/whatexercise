@@ -1,4 +1,4 @@
 # whatexercise
 Random Home Exercise Generator
 
-https://github.com/1024Digital/whatexercise
+https://1024digital.github.io/whatexercise/
